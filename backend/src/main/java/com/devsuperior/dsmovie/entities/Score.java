@@ -31,11 +31,11 @@ public class Score {
         this.id = id;
     }
 
-    public Double getValue() {
+    public Double getScoreValue() {
         return scoreValue;
     }
 
-    public void setValue(Double scoreValue) {
+    public void setScoreValue(Double scoreValue) {
         this.scoreValue = scoreValue;
     }
 }
